@@ -1,4 +1,4 @@
-package com.javastudy.test;
+package com.javastudy.test.init;
 
 public class Clock {
 	private int h, m, s;
